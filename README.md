@@ -1,4 +1,4 @@
-# E.coli-Gene-Descriptions
+# Fish-Gene-Descriptions
 
 propionate--CoA ligase [Escherichia coli str. K-12 substr. MG1655]:
 
