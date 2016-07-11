@@ -12,10 +12,8 @@ DL-methionine transporter subunit [Escherichia coli str. K-12 substr. MG1655]:
 
 The DL-methionine transporter subunit transports the amino acid, Methionine around the cell as a transport protein. Methionine is an amino acid that is coded for by the A-U-G codon during translation. Being the "start" codon, a transfer RNA that reads this amino acid sequence will know that the Methionine signals the beginning of translation, and the codons after that would later be translated into more proteins for the cell to function. This gene transports Methionine to be converted to cellular metabolites, also used in more metabolic pathways. 
 
- 
- 
- ATP-dependent RNA helicase [Escherichia coli str. K-12 substr. MG1655]
- 
+ATP-dependent RNA helicase [Escherichia coli str. K-12 substr. MG1655]
+
  
  
  lipoate-protein ligase A [Escherichia coli str. K-12 substr. MG1655]
