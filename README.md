@@ -13,7 +13,6 @@ DL-methionine transporter subunit [Escherichia coli str. K-12 substr. MG1655]:
 The DL-methionine transporter subunit transports the amino acid, Methionine around the cell as a transport protein. Methionine is an amino acid that is coded for by the A-U-G codon during translation. Being the "start" codon, a transfer RNA that reads this amino acid sequence will know that the Methionine signals the beginning of translation, and the codons after that would later be translated into more proteins for the cell to function. This gene transports Methionine to be converted to cellular metabolites, also used in more metabolic pathways. 
 
 ATP-dependent RNA helicase [Escherichia coli str. K-12 substr. MG1655]
-
+RNA Helicase is responsible for unwinding pairs of complementary RNA strands into single strands. The product of this reaction can be applied later into gel electrophoresis, where the larger double-stranded RNA moves slower than the single strands of RNA. Technically speaking, RNA Helicase can unwind RNA strands in two ways. "The helicase might move 3′-5′ with respect to the single-stranded RNA to which it has bound, or it might move in the opposite direction (ie, 5′-3′)." (What-When-How) An ATP-dependent RNA helicase gene depends on the form of energy that many organisms convert food/external sources into through their own biological process. An ATP-dependent gene would need that energy to carry out its function. In this case, RNA helicase needs ATP energy to unwind RNA strands. 
  
- 
- lipoate-protein ligase A [Escherichia coli str. K-12 substr. MG1655]
+lipoate-protein ligase A [Escherichia coli str. K-12 substr. MG1655]
